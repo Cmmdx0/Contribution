@@ -1,3 +1,6 @@
+Periodo de leitura 2 horas cada docs
+
+
 ---
 title: Guides
 intro: 'Learn about getting started with the REST API, authentication, and how to use the REST API for a variety of tasks.'
