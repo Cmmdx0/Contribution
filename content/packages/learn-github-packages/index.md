@@ -1,10 +1,13 @@
+Docs / index for portuguese
+Translated by: Cmmdx0
+
 ---
-title: Learn GitHub Packages
-shortTitle: Learn GitHub Packages
-intro: 'You can find out more about GitHub Packages, including publishing new packages to {% data variables.product.prodname_registry %}.'
-redirect_from:
+titulo: Learn GitHub Packages
+título curto: Learn GitHub Packages
+introdução: 'Você pode descobrir mais sobre os pacotes do GitHub, incluindo a publicação de novos pacotes para {% data variables.product.prodname_registry %}.'
+redirecionando_para:
   - /packages/getting-started-with-github-container-registry
-versions:
+versões:
   free-pro-team: '*'
   enterprise-server: '>=2.22'
 ---
